@@ -107,7 +107,7 @@ public class CounterTest {
 
     @Test
     public void testDoubleCount() {
-        counter.increaseBy(2);
+        counter.increaseBy(3);
         counter.doubleCount();
         assertEquals(4, counter.getCount());
     }
