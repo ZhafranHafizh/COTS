@@ -1,0 +1,5 @@
+# Created at 2024-06-01T12:25:23.213
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Telkom Univ\Tingkat 3 (Sem 5-6)\Semester 6\Management Konfig & Evolusi PL\Tugas\COTS\Code COTS\COTS\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
